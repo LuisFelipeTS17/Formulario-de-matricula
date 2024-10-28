@@ -1,7 +1,6 @@
-<h1 align="center"> Formulario de Matricula </h1>
+<h1 align="center"> Formulário de Matrícula </h1>
 
 <p align="center">
-Esse projeto foi desenvolvido no curso Full Stack da Rocketseat.
 </p>
 
 <p align="center">
